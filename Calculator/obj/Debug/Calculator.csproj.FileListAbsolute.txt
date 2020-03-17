@@ -1,0 +1,29 @@
+C:\Users\legod\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\legod\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\legod\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\legod\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\legod\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\legod\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\legod\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\legod\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\legod\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\legod\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\legod\source\repos\Calculator with 'tape'\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\legod\source\repos\Calculator with 'tape'\Calculator\bin\Debug\Calculator.exe
+C:\Users\legod\source\repos\Calculator with 'tape'\Calculator\bin\Debug\Calculator.pdb
+C:\Users\legod\source\repos\Calculator with 'tape'\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\legod\source\repos\Calculator with 'tape'\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\legod\source\repos\Calculator with 'tape'\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\legod\source\repos\Calculator with 'tape'\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\legod\source\repos\Calculator with 'tape'\Calculator\obj\Debug\Calculator.exe
+C:\Users\legod\source\repos\Calculator with 'tape'\Calculator\obj\Debug\Calculator.pdb
+C:\Users\legod\source\repos\Calculator with 'tape'\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+Z:\Downloads\Projects\Calculator with _tape_\Calculator\bin\Debug\Calculator.exe.config
+Z:\Downloads\Projects\Calculator with _tape_\Calculator\bin\Debug\Calculator.exe
+Z:\Downloads\Projects\Calculator with _tape_\Calculator\bin\Debug\Calculator.pdb
+Z:\Downloads\Projects\Calculator with _tape_\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+Z:\Downloads\Projects\Calculator with _tape_\Calculator\obj\Debug\Calculator.Form1.resources
+Z:\Downloads\Projects\Calculator with _tape_\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+Z:\Downloads\Projects\Calculator with _tape_\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+Z:\Downloads\Projects\Calculator with _tape_\Calculator\obj\Debug\Calculator.exe
+Z:\Downloads\Projects\Calculator with _tape_\Calculator\obj\Debug\Calculator.pdb
